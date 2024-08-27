@@ -1,2 +1,2 @@
-# asset
-github profile asset
+# Asset
+Github profile assets.
